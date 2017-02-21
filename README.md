@@ -3,7 +3,7 @@
 
 面试前简单实现了一些常用面试算法，后续继续完善；如果有机会还可以用其他语言实现一遍。
 
-####基本数据结构
+####1.基本数据结构
 * binary_tree.h : 二叉树
 * graph.h: 图
 * heap.h: 堆
@@ -14,15 +14,15 @@
 * ptr.h
 * util.h
 
-####leetcode
+####2.leetcode
 * leetcode_array.h
 * leetcode_list.h
 * reverse_string.h
 
-####剑指offer
+####3.剑指offer
 * offer.h
 
-####TODO
+####4.TODO
 * tire_tree.h
 * b_tree.h: b树
 
